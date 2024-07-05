@@ -8,7 +8,7 @@ Depending on the results of the evaluation, the process may end with documentati
 
 ## BPMN
 
-![BPMN - AFTER](BPMN - AFTER.png)
+![BPMN](bpmn.png)
 
 ### Description of the impact of the introduced IT solution on the business process flow
 
@@ -18,8 +18,8 @@ Before the introduction of an IT system, processes are more complex, involving m
 
 ### Business Use Case Diagram
 
-![[BUD.png]]
+![BUD](BUD.png)
 
 ### Business Sequence Diagram
 
-![[BSD.png]]
+![BSD](BSD.png)
