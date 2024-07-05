@@ -6,14 +6,6 @@ In the context of carrying out the various tasks, the organizer takes on respons
 
 Depending on the results of the evaluation, the process may end with documentation of the event as an example of success that can serve as a model for future events. If problems are identified, a detailed analysis is conducted to understand the reasons for failures and make the necessary modifications in future projects. The process ends when conclusions are developed and changes and conclusions are properly documented. 
 
-## BPMN
-
-![BPMN](bpmn.png)
-
-### Description of the impact of the introduced IT solution on the business process flow
-
-Before the introduction of an IT system, processes are more complex, involving more steps and decisions, which involves intensive human interaction. Such organization of processes leads to greater labor intensity and increases the risk of errors associated with manual processing of information and subjective evaluation. After the implementation of an IT system, although the diagrams become much more complex, the entire process runs more smoothly due to the automation of many tasks. The information system introduces clearly defined decision criteria that are more easily applied by machines, which contributes to a more consistent and predictable workflow work. Moreover, once an IT system is in place, processes are better integrated with other systems and tools, enabling a smoother flow of data of data and information. The automation of data collection and processing significantly improves information management, which is crucial in a dynamic business environment. 
-
 ## UML
 
 ### Business Use Case Diagram
@@ -23,3 +15,11 @@ Before the introduction of an IT system, processes are more complex, involving m
 ### Business Sequence Diagram
 
 ![BSD](BSD.png)
+
+## BPMN
+
+![BPMN](bpmn.png)
+
+### Description of the impact of the introduced IT solution on the business process flow
+
+Before the introduction of an IT system, processes are more complex, involving more steps and decisions, which involves intensive human interaction. Such organization of processes leads to greater labor intensity and increases the risk of errors associated with manual processing of information and subjective evaluation. After the implementation of an IT system, although the diagrams become much more complex, the entire process runs more smoothly due to the automation of many tasks. The information system introduces clearly defined decision criteria that are more easily applied by machines, which contributes to a more consistent and predictable workflow work. Moreover, once an IT system is in place, processes are better integrated with other systems and tools, enabling a smoother flow of data of data and information. The automation of data collection and processing significantly improves information management, which is crucial in a dynamic business environment. 
