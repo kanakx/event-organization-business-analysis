@@ -8,7 +8,7 @@ Depending on the results of the evaluation, the process may end with documentati
 
 ## BPMN
 
-![[BPMN - AFTER.png]]
+![BPMN - AFTER](BPMN - AFTER.png)
 
 ### Description of the impact of the introduced IT solution on the business process flow
 
